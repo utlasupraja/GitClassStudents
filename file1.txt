@@ -1,0 +1,1 @@
+This is one text file. In this file, we can write an required data.
